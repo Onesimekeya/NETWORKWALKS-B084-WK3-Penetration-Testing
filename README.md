@@ -30,12 +30,12 @@ The primary focus of this week was understanding the password cracking lifecycle
 #### 📸 Module 1 - Proof of Concept (Screenshots)
 
 *1. Extracting the hash using pdf2john:*
-![Pdf2John Extraction](/Screenshots/JTR/hash_calc.png)
+![Pdf2John Extraction](/Screenshots/hash_calc.png)
 
-![John the Ripper Attack](Screenshots/JTR/hash_calc1.png)
+![John the Ripper Attack](Screenshots/hash_calc1.png)
 
 *2. Successfully cracked password:*
-![Password Found](Screenshots/JTR/congrat_Jtr.png)
+![Password Found](Screenshots/congrat_Jtr.png)
 
 ---
 
@@ -51,10 +51,10 @@ The primary focus of this week was understanding the password cracking lifecycle
 #### 📸 Module 2 - Proof of Concept (Screenshots)
 
 *1. NetworkWalks Password Cracker in action:*
-![NW Password Cracker](Screenshots/NW/NW_tools.png)
+![NW Password Cracker](Screenshots/NW_tools.png)
 
 *2. Successfully cracked password:*
-![NW Password Cracker](Screenshots/NW/congrat_NW.png)
+![NW Password Cracker](Screenshots/congrat_NW.png)
 
 ---
 
