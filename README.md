@@ -30,7 +30,7 @@ The primary focus of this week was understanding the password cracking lifecycle
 #### 📸 Module 1 - Proof of Concept (Screenshots)
 
 *1. Extracting the hash using pdf2john:*
-![Pdf2John Extraction](screenshots/JTR/hash_calc.png)
+![Pdf2John Extraction](/Screenshots/JTR/hash_calc.png)
 
 ![John the Ripper Attack](Screenshots/JTR/hash_calc1.png)
 
