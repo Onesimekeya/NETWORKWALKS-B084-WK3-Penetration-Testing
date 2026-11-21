@@ -30,13 +30,12 @@ The primary focus of this week was understanding the password cracking lifecycle
 #### 📸 Module 1 - Proof of Concept (Screenshots)
 
 *1. Extracting the hash using pdf2john:*
-![Pdf2John Extraction](./screenshots/module1_pdf2john.png)
+![Pdf2John Extraction](./Screenshots/JTR/hash_calc.png)
 
-*2. Running the dictionary attack with John the Ripper & RockYou:*
-![John the Ripper Attack](./screenshots/module1_john_attack.png)
+![John the Ripper Attack](./Screenshots/JTR/hash_calc1.png)
 
-*3. Successfully cracked password:*
-![Password Found](./screenshots/module1_password_found.png)
+*2. Successfully cracked password:*
+![Password Found](./Screenshots/JTR/congrat_Jtr.png)
 
 ---
 
@@ -51,17 +50,11 @@ The primary focus of this week was understanding the password cracking lifecycle
 
 #### 📸 Module 2 - Proof of Concept (Screenshots)
 
-*1. Extracting hashes with NetworkWalks Hash Calculator:*
-![NW Hash Calculator](./screenshots/module2_hash_calc.png)
+*1. NetworkWalks Password Cracker in action:*
+![NW Password Cracker](./Screenshots/NW/NW_tools.png)
 
-*2. NetworkWalks Password Cracker in action:*
-![NW Password Cracker](./screenshots/module2_cracker.png)
-
-*3. JTR Johnny setup on Windows:*
-![JTR Johnny](./screenshots/module2_johnny.png)
-
-*4. Capturing the Flag (CTF):*
-![Flag Captured](./screenshots/module2_flag.png)
+*2. Successfully cracked password:*
+![NW Password Cracker](./Screenshots/NW/congrat_NW.png)
 
 ---
 
